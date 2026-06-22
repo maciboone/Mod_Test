@@ -1,0 +1,9 @@
+{
+    "StructVersion": 1,
+    "BaseURL": "https://maciboone.github.io/Mod_Test/",
+    "RepoName": "Mod_Test",
+    "RepoOwner": "Maci Boone",
+    "Mods": [
+        "baf96bd7-d309-4c51-9100-375bd5cf496b"
+    ]
+}
